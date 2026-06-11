@@ -1,0 +1,10 @@
+Discovered themes in NEGATIVE reviews (NMF over TF-IDF):
+
+Theme 1: bad, experience, money, design, expensive, product, install, saying, total, picture
+Theme 2: best, editing, easy, business, editor, software, way, time, trash, think
+Theme 3: slow, downloading, work, fix, lag, poor, complicated, loading, fast, internet
+Theme 4: worst, thing, experience, subscription, editing, worse, cancelled, mobile, video, pro
+Theme 5: video, download, editing, time, video editing, edit, waste, takes, waste time, useless
+Theme 6: great, ai, open, connection, make, wow, simple, internet, projects, experience
+Theme 7: subscription, money, free, ai, pay, work, trial, want, account, refund
+Theme 8: working, phone, internet, open, properly, like, offline, fix, mobile, design
